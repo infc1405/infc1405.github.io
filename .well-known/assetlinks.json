@@ -1,8 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.infc1405.twa",
-    "sha256_cert_fingerprints": ["F1:11:98:E2:20:5C:AA:BD:F1:53:5F:40:9E:2D:B6:5B:E7:50:8C:7E:42:C5:E7:76:0E:51:2E:DB:F6:6C:BA:54"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.infc1405.twa",
+      "sha256_cert_fingerprints": ["اثرانگشت ادیتور"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.infc1405.twa2",
+      "sha256_cert_fingerprints": ["اثرانگشت خیاط‌یار"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.infc1405.twa3",
+      "sha256_cert_fingerprints": ["اثرانگشت فاکتورینو"]
+    }
   }
-}]
+]
